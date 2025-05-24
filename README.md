@@ -21,13 +21,21 @@ project-etl/
 │ ├── co2_emission_clean.csv
 
 │ ├── continents2_clean.csv
+
 │ ├── per-capita-energy-use_clean.csv
-│ ├── share-of-the-population-wit[...] # shortened for display
+
+│ ├── share-of-the-population-witout access-to-clean-fuels-for-cooking_clean.csv
+
 │ ├── world_risk_index_clean.csv
+
 │ ├── Untitled document.docx
+
 │ └── co2_weather_energy_analysis.ipynb
+
 ├── extract.py
+
 ├── transform.py
+
 └── load.py
 
 
