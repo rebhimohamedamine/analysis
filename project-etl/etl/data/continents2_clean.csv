@@ -1,0 +1,250 @@
+country_name,country_code,region,sub_region,region_code,sub_region_code
+afghanistan,AFG,Asia,Southern Asia,142,34
+åland islands,ALA,Europe,Northern Europe,150,154
+albania,ALB,Europe,Southern Europe,150,39
+algeria,DZA,Africa,Northern Africa,2,15
+american samoa,ASM,Oceania,Polynesia,9,61
+andorra,AND,Europe,Southern Europe,150,39
+angola,AGO,Africa,Sub-Saharan Africa,2,202
+anguilla,AIA,Americas,Latin America and the Caribbean,19,419
+antarctica,ATA,Antarctic,Subantarctic,672,10
+antigua and barbuda,ATG,Americas,Latin America and the Caribbean,19,419
+argentina,ARG,Americas,Latin America and the Caribbean,19,419
+armenia,ARM,Asia,Western Asia,142,145
+aruba,ABW,Americas,Latin America and the Caribbean,19,419
+australia,AUS,Oceania,Australia and New Zealand,9,53
+austria,AUT,Europe,Western Europe,150,155
+azerbaijan,AZE,Asia,Western Asia,142,145
+bahamas,BHS,Americas,Latin America and the Caribbean,19,419
+bahrain,BHR,Asia,Western Asia,142,145
+bangladesh,BGD,Asia,Southern Asia,142,34
+barbados,BRB,Americas,Latin America and the Caribbean,19,419
+belarus,BLR,Europe,Eastern Europe,150,151
+belgium,BEL,Europe,Western Europe,150,155
+belize,BLZ,Americas,Latin America and the Caribbean,19,419
+benin,BEN,Africa,Sub-Saharan Africa,2,202
+bermuda,BMU,Americas,Northern America,19,21
+bhutan,BTN,Asia,Southern Asia,142,34
+bolivia,BOL,Americas,Latin America and the Caribbean,19,419
+"bonaire, sint eustatius and saba",BES,Americas,Latin America and the Caribbean,19,419
+bosnia and herzegovina,BIH,Europe,Southern Europe,150,39
+botswana,BWA,Africa,Sub-Saharan Africa,2,202
+bouvet island,BVT,Americas,Latin America and the Caribbean,19,419
+brazil,BRA,Americas,Latin America and the Caribbean,19,419
+british indian ocean territory,IOT,Africa,Sub-Saharan Africa,2,202
+brunei darussalam,BRN,Asia,South-eastern Asia,142,35
+bulgaria,BGR,Europe,Eastern Europe,150,151
+burkina faso,BFA,Africa,Sub-Saharan Africa,2,202
+burundi,BDI,Africa,Sub-Saharan Africa,2,202
+cabo verde,CPV,Africa,Sub-Saharan Africa,2,202
+cambodia,KHM,Asia,South-eastern Asia,142,35
+cameroon,CMR,Africa,Sub-Saharan Africa,2,202
+canada,CAN,Americas,Northern America,19,21
+cayman islands,CYM,Americas,Latin America and the Caribbean,19,419
+central african republic,CAF,Africa,Sub-Saharan Africa,2,202
+chad,TCD,Africa,Sub-Saharan Africa,2,202
+chile,CHL,Americas,Latin America and the Caribbean,19,419
+china,CHN,Asia,Eastern Asia,142,30
+christmas island,CXR,Oceania,Australia and New Zealand,9,53
+cocos (keeling) islands,CCK,Oceania,Australia and New Zealand,9,53
+colombia,COL,Americas,Latin America and the Caribbean,19,419
+comoros,COM,Africa,Sub-Saharan Africa,2,202
+congo,COG,Africa,Sub-Saharan Africa,2,202
+congo (democratic republic of the),COD,Africa,Sub-Saharan Africa,2,202
+cook islands,COK,Oceania,Polynesia,9,61
+costa rica,CRI,Americas,Latin America and the Caribbean,19,419
+côte d'ivoire,CIV,Africa,Sub-Saharan Africa,2,202
+croatia,HRV,Europe,Southern Europe,150,39
+cuba,CUB,Americas,Latin America and the Caribbean,19,419
+curaçao,CUW,Americas,Latin America and the Caribbean,19,419
+cyprus,CYP,Asia,Western Asia,142,145
+czech republic,CZE,Europe,Eastern Europe,150,151
+denmark,DNK,Europe,Northern Europe,150,154
+djibouti,DJI,Africa,Sub-Saharan Africa,2,202
+dominica,DMA,Americas,Latin America and the Caribbean,19,419
+dominican republic,DOM,Americas,Latin America and the Caribbean,19,419
+ecuador,ECU,Americas,Latin America and the Caribbean,19,419
+egypt,EGY,Africa,Northern Africa,2,15
+el salvador,SLV,Americas,Latin America and the Caribbean,19,419
+equatorial guinea,GNQ,Africa,Sub-Saharan Africa,2,202
+eritrea,ERI,Africa,Sub-Saharan Africa,2,202
+estonia,EST,Europe,Northern Europe,150,154
+eswatini,SWZ,Africa,Sub-Saharan Africa,2,202
+ethiopia,ETH,Africa,Sub-Saharan Africa,2,202
+falkland islands (malvinas),FLK,Americas,Latin America and the Caribbean,19,419
+faroe islands,FRO,Europe,Northern Europe,150,154
+fiji,FJI,Oceania,Melanesia,9,54
+finland,FIN,Europe,Northern Europe,150,154
+france,FRA,Europe,Western Europe,150,155
+french guiana,GUF,Americas,Latin America and the Caribbean,19,419
+french polynesia,PYF,Oceania,Polynesia,9,61
+french southern territories,ATF,Africa,Sub-Saharan Africa,2,202
+gabon,GAB,Africa,Sub-Saharan Africa,2,202
+gambia,GMB,Africa,Sub-Saharan Africa,2,202
+georgia,GEO,Asia,Western Asia,142,145
+germany,DEU,Europe,Western Europe,150,155
+ghana,GHA,Africa,Sub-Saharan Africa,2,202
+gibraltar,GIB,Europe,Southern Europe,150,39
+greece,GRC,Europe,Southern Europe,150,39
+greenland,GRL,Americas,Northern America,19,21
+grenada,GRD,Americas,Latin America and the Caribbean,19,419
+guadeloupe,GLP,Americas,Latin America and the Caribbean,19,419
+guam,GUM,Oceania,Micronesia,9,57
+guatemala,GTM,Americas,Latin America and the Caribbean,19,419
+guernsey,GGY,Europe,Northern Europe,150,154
+guinea,GIN,Africa,Sub-Saharan Africa,2,202
+guinea bissau,GNB,Africa,Sub-Saharan Africa,2,202
+guyana,GUY,Americas,Latin America and the Caribbean,19,419
+haiti,HTI,Americas,Latin America and the Caribbean,19,419
+heard island and mcdonald islands,HMD,Oceania,Australia and New Zealand,9,53
+holy see,VAT,Europe,Southern Europe,150,39
+honduras,HND,Americas,Latin America and the Caribbean,19,419
+hong kong,HKG,Asia,Eastern Asia,142,30
+hungary,HUN,Europe,Eastern Europe,150,151
+iceland,ISL,Europe,Northern Europe,150,154
+india,IND,Asia,Southern Asia,142,34
+indonesia,IDN,Asia,South-eastern Asia,142,35
+iran,IRN,Asia,Southern Asia,142,34
+iraq,IRQ,Asia,Western Asia,142,145
+ireland,IRL,Europe,Northern Europe,150,154
+isle of man,IMN,Europe,Northern Europe,150,154
+israel,ISR,Asia,Western Asia,142,145
+italy,ITA,Europe,Southern Europe,150,39
+jamaica,JAM,Americas,Latin America and the Caribbean,19,419
+japan,JPN,Asia,Eastern Asia,142,30
+jersey,JEY,Europe,Northern Europe,150,154
+jordan,JOR,Asia,Western Asia,142,145
+kazakhstan,KAZ,Asia,Central Asia,142,143
+kenya,KEN,Africa,Sub-Saharan Africa,2,202
+kiribati,KIR,Oceania,Micronesia,9,57
+south korea,PRK,Asia,Eastern Asia,142,30
+"korea, republic of",KOR,Asia,Eastern Asia,142,30
+kuwait,KWT,Asia,Western Asia,142,145
+kyrgyzstan,KGZ,Asia,Central Asia,142,143
+laos,LAO,Asia,South-eastern Asia,142,35
+latvia,LVA,Europe,Northern Europe,150,154
+lebanon,LBN,Asia,Western Asia,142,145
+lesotho,LSO,Africa,Sub-Saharan Africa,2,202
+liberia,LBR,Africa,Sub-Saharan Africa,2,202
+libya,LBY,Africa,Northern Africa,2,15
+liechtenstein,LIE,Europe,Western Europe,150,155
+lithuania,LTU,Europe,Northern Europe,150,154
+luxembourg,LUX,Europe,Western Europe,150,155
+macao,MAC,Asia,Eastern Asia,142,30
+madagascar,MDG,Africa,Sub-Saharan Africa,2,202
+malawi,MWI,Africa,Sub-Saharan Africa,2,202
+malaysia,MYS,Asia,South-eastern Asia,142,35
+maldives,MDV,Asia,Southern Asia,142,34
+mali,MLI,Africa,Sub-Saharan Africa,2,202
+malta,MLT,Europe,Southern Europe,150,39
+marshall islands,MHL,Oceania,Micronesia,9,57
+martinique,MTQ,Americas,Latin America and the Caribbean,19,419
+mauritania,MRT,Africa,Sub-Saharan Africa,2,202
+mauritius,MUS,Africa,Sub-Saharan Africa,2,202
+mayotte,MYT,Africa,Sub-Saharan Africa,2,202
+mexico,MEX,Americas,Latin America and the Caribbean,19,419
+micronesia (federated states of),FSM,Oceania,Micronesia,9,57
+moldova,MDA,Europe,Eastern Europe,150,151
+monaco,MCO,Europe,Western Europe,150,155
+mongolia,MNG,Asia,Eastern Asia,142,30
+montenegro,MNE,Europe,Southern Europe,150,39
+montserrat,MSR,Americas,Latin America and the Caribbean,19,419
+morocco,MAR,Africa,Northern Africa,2,15
+mozambique,MOZ,Africa,Sub-Saharan Africa,2,202
+myanmar,MMR,Asia,South-eastern Asia,142,35
+namibia,NAM,Africa,Sub-Saharan Africa,2,202
+nauru,NRU,Oceania,Micronesia,9,57
+nepal,NPL,Asia,Southern Asia,142,34
+netherlands,NLD,Europe,Western Europe,150,155
+new caledonia,NCL,Oceania,Melanesia,9,54
+new zealand,NZL,Oceania,Australia and New Zealand,9,53
+nicaragua,NIC,Americas,Latin America and the Caribbean,19,419
+niger,NER,Africa,Sub-Saharan Africa,2,202
+nigeria,NGA,Africa,Sub-Saharan Africa,2,202
+niue,NIU,Oceania,Polynesia,9,61
+norfolk island,NFK,Oceania,Australia and New Zealand,9,53
+macedonia,MKD,Europe,Southern Europe,150,39
+northern mariana islands,MNP,Oceania,Micronesia,9,57
+norway,NOR,Europe,Northern Europe,150,154
+oman,OMN,Asia,Western Asia,142,145
+pakistan,PAK,Asia,Southern Asia,142,34
+palau,PLW,Oceania,Micronesia,9,57
+"palestine, state of",PSE,Asia,Western Asia,142,145
+panama,PAN,Americas,Latin America and the Caribbean,19,419
+papua new guinea,PNG,Oceania,Melanesia,9,54
+paraguay,PRY,Americas,Latin America and the Caribbean,19,419
+peru,PER,Americas,Latin America and the Caribbean,19,419
+philippines,PHL,Asia,South-eastern Asia,142,35
+pitcairn,PCN,Oceania,Polynesia,9,61
+poland,POL,Europe,Eastern Europe,150,151
+portugal,PRT,Europe,Southern Europe,150,39
+puerto rico,PRI,Americas,Latin America and the Caribbean,19,419
+qatar,QAT,Asia,Western Asia,142,145
+réunion,REU,Africa,Sub-Saharan Africa,2,202
+romania,ROU,Europe,Eastern Europe,150,151
+russia,RUS,Europe,Eastern Europe,150,151
+rwanda,RWA,Africa,Sub-Saharan Africa,2,202
+saint barthélemy,BLM,Americas,Latin America and the Caribbean,19,419
+"saint helena, ascension and tristan da cunha",SHN,Africa,Sub-Saharan Africa,2,202
+saint kitts and nevis,KNA,Americas,Latin America and the Caribbean,19,419
+saint lucia,LCA,Americas,Latin America and the Caribbean,19,419
+saint martin (french part),MAF,Americas,Latin America and the Caribbean,19,419
+saint pierre and miquelon,SPM,Americas,Northern America,19,21
+saint vincent and the grenadines,VCT,Americas,Latin America and the Caribbean,19,419
+samoa,WSM,Oceania,Polynesia,9,61
+san marino,SMR,Europe,Southern Europe,150,39
+sao tome and principe,STP,Africa,Sub-Saharan Africa,2,202
+saudi arabia,SAU,Asia,Western Asia,142,145
+senegal,SEN,Africa,Sub-Saharan Africa,2,202
+serbia,SRB,Europe,Southern Europe,150,39
+seychelles,SYC,Africa,Sub-Saharan Africa,2,202
+sierra leone,SLE,Africa,Sub-Saharan Africa,2,202
+singapore,SGP,Asia,South-eastern Asia,142,35
+sint maarten (dutch part),SXM,Americas,Latin America and the Caribbean,19,419
+slovakia,SVK,Europe,Eastern Europe,150,151
+slovenia,SVN,Europe,Southern Europe,150,39
+solomon islands,SLB,Oceania,Melanesia,9,54
+somalia,SOM,Africa,Sub-Saharan Africa,2,202
+south africa,ZAF,Africa,Sub-Saharan Africa,2,202
+south georgia and the south sandwich islands,SGS,Americas,Latin America and the Caribbean,19,419
+south sudan,SSD,Africa,Sub-Saharan Africa,2,202
+spain,ESP,Europe,Southern Europe,150,39
+sri lanka,LKA,Asia,Southern Asia,142,34
+sudan,SDN,Africa,Northern Africa,2,15
+suriname,SUR,Americas,Latin America and the Caribbean,19,419
+svalbard and jan mayen,SJM,Europe,Northern Europe,150,154
+sweden,SWE,Europe,Northern Europe,150,154
+switzerland,CHE,Europe,Western Europe,150,155
+syria,SYR,Asia,Western Asia,142,145
+taiwan,TWN,Asia,Eastern Asia,142,30
+tajikistan,TJK,Asia,Central Asia,142,143
+tanzania,TZA,Africa,Sub-Saharan Africa,2,202
+thailand,THA,Asia,South-eastern Asia,142,35
+timor-leste,TLS,Asia,South-eastern Asia,142,35
+togo,TGO,Africa,Sub-Saharan Africa,2,202
+tokelau,TKL,Oceania,Polynesia,9,61
+tonga,TON,Oceania,Polynesia,9,61
+trinidad and tobago,TTO,Americas,Latin America and the Caribbean,19,419
+tunisia,TUN,Africa,Northern Africa,2,15
+turkey,TUR,Asia,Western Asia,142,145
+turkmenistan,TKM,Asia,Central Asia,142,143
+turks and caicos islands,TCA,Americas,Latin America and the Caribbean,19,419
+tuvalu,TUV,Oceania,Polynesia,9,61
+uganda,UGA,Africa,Sub-Saharan Africa,2,202
+ukraine,UKR,Europe,Eastern Europe,150,151
+united arab emirates,ARE,Asia,Western Asia,142,145
+united kingdom,GBR,Europe,Northern Europe,150,154
+united states,USA,Americas,Northern America,19,21
+united states minor outlying islands,UMI,Oceania,Micronesia,9,57
+uruguay,URY,Americas,Latin America and the Caribbean,19,419
+uzbekistan,UZB,Asia,Central Asia,142,143
+vanuatu,VUT,Oceania,Melanesia,9,54
+venezuela,VEN,Americas,Latin America and the Caribbean,19,419
+vietnam,VNM,Asia,South-eastern Asia,142,35
+virgin islands (british),VGB,Americas,Latin America and the Caribbean,19,419
+virgin islands (u.s.),VIR,Americas,Latin America and the Caribbean,19,419
+wallis and futuna,WLF,Oceania,Polynesia,9,61
+western sahara,ESH,Africa,Northern Africa,2,15
+yemen,YEM,Asia,Western Asia,142,145
+zambia,ZMB,Africa,Sub-Saharan Africa,2,202
+zimbabwe,ZWE,Africa,Sub-Saharan Africa,2,202
