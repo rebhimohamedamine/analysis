@@ -95,5 +95,7 @@ cd analysis/etl
 pip install pandas psycopg2
 
 python extract.py
+python transform.py
+python load.py
 
 
