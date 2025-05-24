@@ -85,7 +85,7 @@ DB_CONFIG = {
 ```
 ---
 
-🚀 Clone & Run This Project
+ Clone & Run This Project
 
 ```bash
 git clone https://github.com/rebhimohamedamine/analysis.git
