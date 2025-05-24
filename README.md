@@ -9,11 +9,17 @@ This project is an **ETL (Extract, Transform, Load)** pipeline developed in Pyth
 ## 📁 Project Structure
 
 project-etl/
+
 └── etl/
+
 ├── pycache/
+
 ├── data/
+
 │ ├── air-pollution_clean.csv
+
 │ ├── co2_emission_clean.csv
+
 │ ├── continents2_clean.csv
 │ ├── per-capita-energy-use_clean.csv
 │ ├── share-of-the-population-wit[...] # shortened for display
