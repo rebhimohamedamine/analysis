@@ -69,5 +69,15 @@ DB_CONFIG = {
     'password': 'your_password'
 }
 
+🚀 Clone & Run This Project
+
+```bash
+git clone https://github.com/rebhimohamedamine/analysis.git
+
+cd analysis/etl
+
+pip install pandas psycopg2
+
+python extract.py
 
 
